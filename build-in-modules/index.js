@@ -5,4 +5,5 @@
 // require("./buildPath");
 // require("./eventModule");
 // require('./fs')
-require("./fsPromise");
+// require("./fileSystem/fsPromise");
+require("./fileSystem/streams");
