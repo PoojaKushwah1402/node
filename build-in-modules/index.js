@@ -4,4 +4,5 @@
 
 // require("./buildPath");
 // require("./eventModule");
-require('./fs')
+// require('./fs')
+require("./fsPromise");
